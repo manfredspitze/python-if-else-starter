@@ -27,7 +27,7 @@
 
 #### Task 1
 
-- Read **if-else Statements**, pp. 79 - 80 in the yellow PCC book
+- Read **if-else Statements**, pp. 79 - 80 in the yellow PCC (*Python Crash Course*) book
 
 #### Task 2
 
