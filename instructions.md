@@ -53,6 +53,11 @@ vowels = ['a', 'e', 'i', 'o', 'u']
 
 - Prompt the user to enter a letter of the alphabet
 - Apply the `lower()` string method to the prompt (from Step 1 above)
+
+```python
+# The lower ( ) method converts the user's input to all lowercase characters
+letter = input('Please enter a letter of the alphabet:\n').lower()
+```
 - Using the `in` membership operator, write an if-else statement that checks whether the letter the user entered is a vowel 
 - If the letter IS a vowel, tell the user that the letter is indeed a vowel
 - Otherwise, tell the user the letter they entered is a consonant
