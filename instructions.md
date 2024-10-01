@@ -58,7 +58,7 @@ vowels = ['a', 'e', 'i', 'o', 'u']
 # The lower ( ) method converts the user's input to all lowercase characters
 letter = input('Please enter a letter of the alphabet:\n').lower()
 ```
-- [Using the `in` membership operator](https://www.tutorialspoint.com/how-does-in-operator-work-on-list-in-python), write an if-else statement that checks whether the letter the user entered is a vowel 
+- [Using the `in` membership operator (see Method 3 in the example)](https://www.tutorialspoint.com/how-does-in-operator-work-on-list-in-python), write an if-else statement that checks whether the letter the user entered is a vowel 
 - If the letter IS a vowel, tell the user that the letter is indeed a vowel
 - Otherwise, tell the user the letter they entered is a consonant
 
