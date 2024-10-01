@@ -22,7 +22,7 @@
 ### Coding Tasks
 
 - Use comments to label each task in your script
-  - Example: # Part 1, # Part 2, etc.
+  - Example: # Task 1, # Task 2, etc.
 - Use f-strings to display the output for each task
 
 #### Task 1
