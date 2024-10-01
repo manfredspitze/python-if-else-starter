@@ -49,6 +49,7 @@
 # Rules for naming lists are the same as the rules for naming variables
 # Use a pair of square brackets to mark the beginning and end of your Python list
 vowels = ['a', 'e', 'i', 'o', 'u']
+```
 
 - Prompt the user to enter a letter of the alphabet
 - Apply the `lower()` string method to the prompt (from Step 1 above)
