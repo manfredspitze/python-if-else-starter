@@ -36,7 +36,7 @@
 #### Task 3
 
 - Prompt the user to enter their first name
-- Use the Python `len()` function and an if statement to determine if the number of characters in the name is less than or equal to 5
+- Use the Python [`len()`](https://www.w3schools.com/python/ref_func_len.asp) function and an if statement to determine if the number of characters in the name is less than or equal to 5
 - If the condition evaluates to True, tell the user their name is too short
 - Otherwise, tell the user s/he has a long name
 
